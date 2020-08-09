@@ -1,5 +1,7 @@
 ### Hi there 👋
-[![Alexis ROLLAND's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexisrolland)](https://github.com/anuraghazra/github-readme-stats)
+[![Alexis ROLLAND's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexisrolland&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexisrolland&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **alexisrolland/alexisrolland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
